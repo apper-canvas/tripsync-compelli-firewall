@@ -32,7 +32,7 @@ const QuickActions = () => {
         tripId="1"
       />
     </>
-  )
+)
 }
 
-      export default QuickActions
+export default QuickActions

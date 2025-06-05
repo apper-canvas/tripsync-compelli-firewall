@@ -1,0 +1,347 @@
+[
+  {
+    "id": 1,
+    "tripId": 1,
+    "title": "Hotel Accommodation - Paris",
+    "description": "5 nights at Hotel des Grands Boulevards",
+    "amount": 1250.00,
+    "currency": "USD",
+    "category": "accommodation",
+    "paidBy": {
+      "memberId": 1,
+      "name": "Sarah Johnson"
+    },
+    "splits": [
+      { "memberId": 1, "name": "Sarah Johnson", "amount": 312.50, "paid": true },
+      { "memberId": 2, "name": "Mike Chen", "amount": 312.50, "paid": true },
+      { "memberId": 3, "name": "Emma Davis", "amount": 312.50, "paid": false },
+      { "memberId": 4, "name": "Alex Rodriguez", "amount": 312.50, "paid": false }
+    ],
+    "date": "2024-03-15",
+    "receipt": null,
+    "createdAt": "2024-03-10T10:00:00Z",
+    "updatedAt": "2024-03-10T10:00:00Z"
+  },
+  {
+    "id": 2,
+    "tripId": 1,
+    "title": "Group Dinner - Le Jules Verne",
+    "description": "Dinner at Eiffel Tower restaurant",
+    "amount": 480.00,
+    "currency": "USD",
+    "category": "food",
+    "paidBy": {
+      "memberId": 2,
+      "name": "Mike Chen"
+    },
+    "splits": [
+      { "memberId": 1, "name": "Sarah Johnson", "amount": 120.00, "paid": true },
+      { "memberId": 2, "name": "Mike Chen", "amount": 120.00, "paid": true },
+      { "memberId": 3, "name": "Emma Davis", "amount": 120.00, "paid": true },
+      { "memberId": 4, "name": "Alex Rodriguez", "amount": 120.00, "paid": false }
+    ],
+    "date": "2024-03-16",
+    "receipt": "receipt_dinner_001.jpg",
+    "createdAt": "2024-03-16T20:30:00Z",
+    "updatedAt": "2024-03-16T20:30:00Z"
+  },
+  {
+    "id": 3,
+    "tripId": 1,
+    "title": "Metro Day Passes",
+    "description": "7-day metro passes for everyone",
+    "amount": 120.00,
+    "currency": "USD",
+    "category": "transportation",
+    "paidBy": {
+      "memberId": 3,
+      "name": "Emma Davis"
+    },
+    "splits": [
+      { "memberId": 1, "name": "Sarah Johnson", "amount": 30.00, "paid": true },
+      { "memberId": 2, "name": "Mike Chen", "amount": 30.00, "paid": true },
+      { "memberId": 3, "name": "Emma Davis", "amount": 30.00, "paid": true },
+      { "memberId": 4, "name": "Alex Rodriguez", "amount": 30.00, "paid": true }
+    ],
+    "date": "2024-03-15",
+    "receipt": null,
+    "createdAt": "2024-03-15T09:15:00Z",
+    "updatedAt": "2024-03-15T09:15:00Z"
+  },
+  {
+    "id": 4,
+    "tripId": 1,
+    "title": "Louvre Museum Tickets",
+    "description": "Skip-the-line tickets for group tour",
+    "amount": 200.00,
+    "currency": "USD",
+    "category": "activities",
+    "paidBy": {
+      "memberId": 4,
+      "name": "Alex Rodriguez"
+    },
+    "splits": [
+      { "memberId": 1, "name": "Sarah Johnson", "amount": 50.00, "paid": false },
+      { "memberId": 2, "name": "Mike Chen", "amount": 50.00, "paid": true },
+      { "memberId": 3, "name": "Emma Davis", "amount": 50.00, "paid": false },
+      { "memberId": 4, "name": "Alex Rodriguez", "amount": 50.00, "paid": true }
+    ],
+    "date": "2024-03-17",
+    "receipt": "louvre_tickets.pdf",
+    "createdAt": "2024-03-14T14:20:00Z",
+    "updatedAt": "2024-03-14T14:20:00Z"
+  },
+  {
+    "id": 5,
+    "tripId": 1,
+    "title": "Grocery Shopping",
+    "description": "Breakfast supplies and snacks",
+    "amount": 85.50,
+    "currency": "USD",
+    "category": "food",
+    "paidBy": {
+      "memberId": 1,
+      "name": "Sarah Johnson"
+    },
+    "splits": [
+      { "memberId": 1, "name": "Sarah Johnson", "amount": 21.38, "paid": true },
+      { "memberId": 2, "name": "Mike Chen", "amount": 21.38, "paid": false },
+      { "memberId": 3, "name": "Emma Davis", "amount": 21.38, "paid": true },
+      { "memberId": 4, "name": "Alex Rodriguez", "amount": 21.36, "paid": false }
+    ],
+    "date": "2024-03-15",
+    "receipt": "grocery_receipt.jpg",
+    "createdAt": "2024-03-15T18:45:00Z",
+    "updatedAt": "2024-03-15T18:45:00Z"
+  },
+  {
+    "id": 6,
+    "tripId": 1,
+    "title": "Taxi to Airport",
+    "description": "Shared taxi from hotel to CDG",
+    "amount": 75.00,
+    "currency": "USD",
+    "category": "transportation",
+    "paidBy": {
+      "memberId": 2,
+      "name": "Mike Chen"
+    },
+    "splits": [
+      { "memberId": 1, "name": "Sarah Johnson", "amount": 18.75, "paid": true },
+      { "memberId": 2, "name": "Mike Chen", "amount": 18.75, "paid": true },
+      { "memberId": 3, "name": "Emma Davis", "amount": 18.75, "paid": false },
+      { "memberId": 4, "name": "Alex Rodriguez", "amount": 18.75, "paid": false }
+    ],
+    "date": "2024-03-20",
+    "receipt": null,
+    "createdAt": "2024-03-20T08:30:00Z",
+    "updatedAt": "2024-03-20T08:30:00Z"
+  },
+  {
+    "id": 7,
+    "tripId": 1,
+    "title": "Seine River Cruise",
+    "description": "Evening cruise with dinner",
+    "amount": 320.00,
+    "currency": "USD",
+    "category": "activities",
+    "paidBy": {
+      "memberId": 3,
+      "name": "Emma Davis"
+    },
+    "splits": [
+      { "memberId": 1, "name": "Sarah Johnson", "amount": 80.00, "paid": true },
+      { "memberId": 2, "name": "Mike Chen", "amount": 80.00, "paid": true },
+      { "memberId": 3, "name": "Emma Davis", "amount": 80.00, "paid": true },
+      { "memberId": 4, "name": "Alex Rodriguez", "amount": 80.00, "paid": false }
+    ],
+    "date": "2024-03-18",
+    "receipt": "cruise_booking.pdf",
+    "createdAt": "2024-03-12T16:00:00Z",
+    "updatedAt": "2024-03-12T16:00:00Z"
+  },
+  {
+    "id": 8,
+    "tripId": 1,
+    "title": "Montmartre Walking Tour",
+    "description": "Guided walking tour of Montmartre district",
+    "amount": 160.00,
+    "currency": "USD",
+    "category": "activities",
+    "paidBy": {
+      "memberId": 4,
+      "name": "Alex Rodriguez"
+    },
+    "splits": [
+      { "memberId": 1, "name": "Sarah Johnson", "amount": 40.00, "paid": false },
+      { "memberId": 2, "name": "Mike Chen", "amount": 40.00, "paid": true },
+      { "memberId": 3, "name": "Emma Davis", "amount": 40.00, "paid": true },
+      { "memberId": 4, "name": "Alex Rodriguez", "amount": 40.00, "paid": true }
+    ],
+    "date": "2024-03-19",
+    "receipt": null,
+    "createdAt": "2024-03-13T11:30:00Z",
+    "updatedAt": "2024-03-13T11:30:00Z"
+  },
+  {
+    "id": 9,
+    "tripId": 1,
+    "title": "Lunch at Bistro Paul Bert",
+    "description": "Traditional French bistro lunch",
+    "amount": 180.00,
+    "currency": "USD",
+    "category": "food",
+    "paidBy": {
+      "memberId": 1,
+      "name": "Sarah Johnson"
+    },
+    "splits": [
+      { "memberId": 1, "name": "Sarah Johnson", "amount": 45.00, "paid": true },
+      { "memberId": 2, "name": "Mike Chen", "amount": 45.00, "paid": true },
+      { "memberId": 3, "name": "Emma Davis", "amount": 45.00, "paid": false },
+      { "memberId": 4, "name": "Alex Rodriguez", "amount": 45.00, "paid": true }
+    ],
+    "date": "2024-03-17",
+    "receipt": "bistro_receipt.jpg",
+    "createdAt": "2024-03-17T13:15:00Z",
+    "updatedAt": "2024-03-17T13:15:00Z"
+  },
+  {
+    "id": 10,
+    "tripId": 1,
+    "title": "Versailles Day Trip",
+    "description": "Train tickets and palace entrance",
+    "amount": 240.00,
+    "currency": "USD",
+    "category": "activities",
+    "paidBy": {
+      "memberId": 2,
+      "name": "Mike Chen"
+    },
+    "splits": [
+      { "memberId": 1, "name": "Sarah Johnson", "amount": 60.00, "paid": true },
+      { "memberId": 2, "name": "Mike Chen", "amount": 60.00, "paid": true },
+      { "memberId": 3, "name": "Emma Davis", "amount": 60.00, "paid": false },
+      { "memberId": 4, "name": "Alex Rodriguez", "amount": 60.00, "paid": false }
+    ],
+    "date": "2024-03-18",
+    "receipt": "versailles_tickets.pdf",
+    "createdAt": "2024-03-15T09:00:00Z",
+    "updatedAt": "2024-03-15T09:00:00Z"
+  },
+  {
+    "id": 11,
+    "tripId": 1,
+    "title": "Coffee & Pastries",
+    "description": "Morning coffee run at local café",
+    "amount": 32.00,
+    "currency": "USD",
+    "category": "food",
+    "paidBy": {
+      "memberId": 3,
+      "name": "Emma Davis"
+    },
+    "splits": [
+      { "memberId": 1, "name": "Sarah Johnson", "amount": 8.00, "paid": true },
+      { "memberId": 2, "name": "Mike Chen", "amount": 8.00, "paid": true },
+      { "memberId": 3, "name": "Emma Davis", "amount": 8.00, "paid": true },
+      { "memberId": 4, "name": "Alex Rodriguez", "amount": 8.00, "paid": true }
+    ],
+    "date": "2024-03-16",
+    "receipt": null,
+    "createdAt": "2024-03-16T08:30:00Z",
+    "updatedAt": "2024-03-16T08:30:00Z"
+  },
+  {
+    "id": 12,
+    "tripId": 1,
+    "title": "Emergency Pharmacy",
+    "description": "First aid and travel medications",
+    "amount": 45.00,
+    "currency": "USD",
+    "category": "other",
+    "paidBy": {
+      "memberId": 4,
+      "name": "Alex Rodriguez"
+    },
+    "splits": [
+      { "memberId": 1, "name": "Sarah Johnson", "amount": 11.25, "paid": false },
+      { "memberId": 2, "name": "Mike Chen", "amount": 11.25, "paid": true },
+      { "memberId": 3, "name": "Emma Davis", "amount": 11.25, "paid": false },
+      { "memberId": 4, "name": "Alex Rodriguez", "amount": 11.25, "paid": true }
+    ],
+    "date": "2024-03-16",
+    "receipt": "pharmacy_receipt.jpg",
+    "createdAt": "2024-03-16T15:45:00Z",
+    "updatedAt": "2024-03-16T15:45:00Z"
+  },
+  {
+    "id": 13,
+    "tripId": 1,
+    "title": "Souvenir Shopping",
+    "description": "Group souvenir purchases at Champs-Élysées",
+    "amount": 150.00,
+    "currency": "USD",
+    "category": "other",
+    "paidBy": {
+      "memberId": 1,
+      "name": "Sarah Johnson"
+    },
+    "splits": [
+      { "memberId": 1, "name": "Sarah Johnson", "amount": 37.50, "paid": true },
+      { "memberId": 2, "name": "Mike Chen", "amount": 37.50, "paid": false },
+      { "memberId": 3, "name": "Emma Davis", "amount": 37.50, "paid": true },
+      { "memberId": 4, "name": "Alex Rodriguez", "amount": 37.50, "paid": false }
+    ],
+    "date": "2024-03-19",
+    "receipt": "souvenir_receipt.jpg",
+    "createdAt": "2024-03-19T16:20:00Z",
+    "updatedAt": "2024-03-19T16:20:00Z"
+  },
+  {
+    "id": 14,
+    "tripId": 1,
+    "title": "Airport Parking",
+    "description": "Long-term parking at departure airport",
+    "amount": 180.00,
+    "currency": "USD",
+    "category": "transportation",
+    "paidBy": {
+      "memberId": 2,
+      "name": "Mike Chen"
+    },
+    "splits": [
+      { "memberId": 1, "name": "Sarah Johnson", "amount": 45.00, "paid": true },
+      { "memberId": 2, "name": "Mike Chen", "amount": 45.00, "paid": true },
+      { "memberId": 3, "name": "Emma Davis", "amount": 45.00, "paid": false },
+      { "memberId": 4, "name": "Alex Rodriguez", "amount": 45.00, "paid": false }
+    ],
+    "date": "2024-03-15",
+    "receipt": "parking_receipt.pdf",
+    "createdAt": "2024-03-15T06:00:00Z",
+    "updatedAt": "2024-03-15T06:00:00Z"
+  },
+  {
+    "id": 15,
+    "tripId": 1,
+    "title": "Group Insurance",
+    "description": "Travel insurance for all members",
+    "amount": 200.00,
+    "currency": "USD",
+    "category": "other",
+    "paidBy": {
+      "memberId": 3,
+      "name": "Emma Davis"
+    },
+    "splits": [
+      { "memberId": 1, "name": "Sarah Johnson", "amount": 50.00, "paid": true },
+      { "memberId": 2, "name": "Mike Chen", "amount": 50.00, "paid": true },
+      { "memberId": 3, "name": "Emma Davis", "amount": 50.00, "paid": true },
+      { "memberId": 4, "name": "Alex Rodriguez", "amount": 50.00, "paid": false }
+    ],
+    "date": "2024-03-10",
+    "receipt": "insurance_policy.pdf",
+    "createdAt": "2024-03-10T12:00:00Z",
+    "updatedAt": "2024-03-10T12:00:00Z"
+  }
+]
