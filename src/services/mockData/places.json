@@ -1,0 +1,152 @@
+[
+  {
+    "id": "place_001",
+    "tripId": "trip_001",
+    "name": "Notre-Dame Cathedral",
+    "category": "attraction",
+    "description": "Gothic masterpiece and one of Paris's most famous landmarks. Marvel at the stunning architecture and rich history of this medieval cathedral.",
+    "rating": 5,
+    "mustSee": true,
+    "imageUrl": "https://images.unsplash.com/photo-1539650116574-75c0c6d73636?w=400&h=300&fit=crop"
+  },
+  {
+    "id": "place_002",
+    "tripId": "trip_001",
+    "name": "Le Comptoir du Relais",
+    "category": "restaurant",
+    "description": "Charming bistro serving authentic French cuisine in Saint-Germain-des-Prés. Famous for its traditional dishes and cozy atmosphere.",
+    "rating": 4,
+    "mustSee": false,
+    "imageUrl": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=400&h=300&fit=crop"
+  },
+  {
+    "id": "place_003",
+    "tripId": "trip_001",
+    "name": "Galeries Lafayette",
+    "category": "shopping",
+    "description": "Iconic department store with luxury brands, gourmet food hall, and stunning Art Nouveau architecture under its famous dome.",
+    "rating": 4,
+    "mustSee": false,
+    "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=400&h=300&fit=crop"
+  },
+  {
+    "id": "place_004",
+    "tripId": "trip_001",
+    "name": "Colosseum",
+    "category": "attraction",
+    "description": "Ancient amphitheater and iconic symbol of Imperial Rome. Step back in time and imagine gladiatorial contests in this architectural marvel.",
+    "rating": 5,
+    "mustSee": true,
+    "imageUrl": "https://images.unsplash.com/photo-1552832230-c0197dd311b5?w=400&h=300&fit=crop"
+  },
+  {
+    "id": "place_005",
+    "tripId": "trip_001",
+    "name": "Trattoria del Sostegno",
+    "category": "restaurant",
+    "description": "Family-run trattoria serving traditional Roman dishes. Hidden gem loved by locals for authentic flavors and warm hospitality.",
+    "rating": 5,
+    "mustSee": true,
+    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=400&h=300&fit=crop"
+  },
+  {
+    "id": "place_006",
+    "tripId": "trip_001",
+    "name": "Vatican Museums",
+    "category": "attraction",
+    "description": "World-renowned art collection including the Sistine Chapel. Home to masterpieces by Michelangelo, Raphael, and countless other masters.",
+    "rating": 5,
+    "mustSee": true,
+    "imageUrl": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=300&fit=crop"
+  },
+  {
+    "id": "place_007",
+    "tripId": "trip_001",
+    "name": "Sagrada Família",
+    "category": "attraction",
+    "description": "Gaudí's architectural masterpiece and Barcelona's most famous landmark. This basilica combines Gothic and Art Nouveau forms in stunning detail.",
+    "rating": 5,
+    "mustSee": true,
+    "imageUrl": "https://images.unsplash.com/photo-1558642452-9d2a7deb7f62?w=400&h=300&fit=crop"
+  },
+  {
+    "id": "place_008",
+    "tripId": "trip_001",
+    "name": "Park Güell",
+    "category": "attraction",
+    "description": "Whimsical park designed by Antoni Gaudí featuring colorful mosaics, unique architecture, and panoramic views of Barcelona.",
+    "rating": 4,
+    "mustSee": true,
+    "imageUrl": "https://images.unsplash.com/photo-1539037116277-4db20889f2d4?w=400&h=300&fit=crop"
+  },
+  {
+    "id": "place_009",
+    "tripId": "trip_001",
+    "name": "La Boquería Market",
+    "category": "shopping",
+    "description": "Vibrant food market on Las Ramblas offering fresh produce, local delicacies, and authentic Catalan specialties.",
+    "rating": 4,
+    "mustSee": false,
+    "imageUrl": "https://images.unsplash.com/photo-1567168544813-cc03465b4fa8?w=400&h=300&fit=crop"
+  },
+  {
+    "id": "place_010",
+    "tripId": "trip_001",
+    "name": "Cal Pep",
+    "category": "restaurant",
+    "description": "Legendary tapas bar known for exceptional seafood and traditional Catalan dishes. No reservations - arrive early!",
+    "rating": 5,
+    "mustSee": true,
+    "imageUrl": "https://images.unsplash.com/photo-1554118811-1e0d58224f24?w=400&h=300&fit=crop"
+  },
+  {
+    "id": "place_011",
+    "tripId": "trip_002",
+    "name": "Grand Palace Bangkok",
+    "category": "attraction",
+    "description": "Stunning complex of royal buildings and temples showcasing traditional Thai architecture and craftsmanship.",
+    "rating": 5,
+    "mustSee": true,
+    "imageUrl": "https://images.unsplash.com/photo-1563492065_89d7e4978f7f?w=400&h=300&fit=crop"
+  },
+  {
+    "id": "place_012",
+    "tripId": "trip_002",
+    "name": "Chatuchak Weekend Market",
+    "category": "shopping",
+    "description": "Massive weekend market with over 15,000 stalls selling everything from local crafts to street food.",
+    "rating": 4,
+    "mustSee": false,
+    "imageUrl": "https://images.unsplash.com/photo-1578632767968-ade2525d3d68?w=400&h=300&fit=crop"
+  },
+  {
+    "id": "place_013",
+    "tripId": "trip_002",
+    "name": "Ha Long Bay",
+    "category": "attraction",
+    "description": "UNESCO World Heritage site featuring thousands of limestone islands and islets in emerald waters.",
+    "rating": 5,
+    "mustSee": true,
+    "imageUrl": "https://images.unsplash.com/photo-1528127269322-539801943592?w=400&h=300&fit=crop"
+  },
+  {
+    "id": "place_014",
+    "tripId": "trip_002",
+    "name": "Angkor Wat",
+    "category": "attraction",
+    "description": "Magnificent temple complex and largest religious monument in the world, showcasing Khmer architecture.",
+    "rating": 5,
+    "mustSee": true,
+    "imageUrl": "https://images.unsplash.com/photo-1539650116574-75c0c6d73636?w=400&h=300&fit=crop"
+  },
+  {
+    "id": "place_015",
+    "tripId": "trip_002",
+    "name": "Street Food Tour",
+    "category": "restaurant",
+    "description": "Guided tour through the best street food vendors, sampling authentic local dishes and flavors.",
+    "rating": 5,
+    "mustSee": true,
+    "imageUrl": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=400&h=300&fit=crop"
+  }
+]

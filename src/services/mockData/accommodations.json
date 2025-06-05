@@ -1,0 +1,52 @@
+[
+  {
+    "id": "accommodation_001",
+    "tripId": "trip_001",
+    "name": "Hotel Le Marais",
+    "address": "15 Rue des Archives, 75004 Paris, France",
+    "checkIn": "2024-06-15T15:00:00Z",
+    "checkOut": "2024-06-18T11:00:00Z",
+    "confirmationNumber": "HTL-PAR-45891",
+    "notes": "Request room with street view. Hotel has 24/7 concierge service. Free WiFi throughout property."
+  },
+  {
+    "id": "accommodation_002",
+    "tripId": "trip_001",
+    "name": "Hotel Villa San Martino",
+    "address": "Via Merulana, 155, 00185 Roma RM, Italy",
+    "checkIn": "2024-06-18T14:00:00Z",
+    "checkOut": "2024-06-20T10:00:00Z",
+    "confirmationNumber": "HTL-ROM-67234",
+    "notes": "Near Colosseum and Roman Forum. Breakfast included. Airport shuttle available for €15."
+  },
+  {
+    "id": "accommodation_003",
+    "tripId": "trip_001",
+    "name": "Hotel Barcelona Center",
+    "address": "Carrer de Balmes, 142, 08008 Barcelona, Spain",
+    "checkIn": "2024-06-20T16:00:00Z",
+    "checkOut": "2024-06-22T12:00:00Z",
+    "confirmationNumber": "HTL-BCN-89567",
+    "notes": "Modern hotel in Eixample district. Walking distance to Sagrada Familia. Rooftop terrace with city views."
+  },
+  {
+    "id": "accommodation_004",
+    "tripId": "trip_002",
+    "name": "Bangkok Grand Palace Hotel",
+    "address": "123 Khao San Road, Bangkok, Thailand",
+    "checkIn": "2024-07-01T14:00:00Z",
+    "checkOut": "2024-07-05T11:00:00Z",
+    "confirmationNumber": "HTL-BKK-12345",
+    "notes": "Traditional Thai architecture with modern amenities. Pool and spa facilities available."
+  },
+  {
+    "id": "accommodation_005",
+    "tripId": "trip_002",
+    "name": "Hanoi Heritage Hotel",
+    "address": "45 Old Quarter Street, Hanoi, Vietnam",
+    "checkIn": "2024-07-05T15:00:00Z",
+    "checkOut": "2024-07-09T10:00:00Z",
+    "confirmationNumber": "HTL-HAN-67890",
+    "notes": "Boutique hotel in historic Old Quarter. French colonial architecture with Vietnamese touches."
+  }
+]

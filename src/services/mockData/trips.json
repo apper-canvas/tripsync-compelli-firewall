@@ -1,0 +1,22 @@
+[
+  {
+    "id": "trip_001",
+    "name": "European Adventure",
+    "destination": "Paris, Rome & Barcelona",
+    "startDate": "2024-06-15",
+    "endDate": "2024-06-22",
+    "coverImage": "https://images.unsplash.com/photo-1502602898536-47ad22581b52?w=1200&h=800&fit=crop",
+    "description": "An unforgettable journey through three of Europe's most iconic cities. Experience the romance of Paris, the history of Rome, and the vibrant culture of Barcelona. This carefully curated itinerary includes must-see landmarks, hidden gems, world-class cuisine, and authentic local experiences that will create memories to last a lifetime.",
+    "createdAt": "2024-01-15T10:30:00Z"
+  },
+  {
+    "id": "trip_002",
+    "name": "Southeast Asia Explorer",
+    "destination": "Thailand, Vietnam & Cambodia",
+    "startDate": "2024-07-01",
+    "endDate": "2024-07-14",
+    "coverImage": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1200&h=800&fit=crop",
+    "description": "Discover the magic of Southeast Asia on this epic two-week adventure. From the bustling streets of Bangkok to the ancient temples of Angkor Wat, this trip combines cultural immersion, incredible food experiences, and breathtaking natural beauty across three fascinating countries.",
+    "createdAt": "2024-01-20T14:15:00Z"
+  }
+]

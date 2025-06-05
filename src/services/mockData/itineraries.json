@@ -1,0 +1,98 @@
+[
+  {
+    "id": "itinerary_001",
+    "tripId": "trip_001",
+    "day": 1,
+    "date": "2024-06-15",
+    "activities": [
+      {
+        "id": "activity_001",
+        "title": "Arrival in Paris",
+        "startTime": "10:00",
+        "endTime": "12:00",
+        "location": "Charles de Gaulle Airport",
+        "description": "Land at CDG Airport and take the RER B train to central Paris. Check into hotel and get settled.",
+        "category": "transport"
+      },
+      {
+        "id": "activity_002",
+        "title": "Lunch at Local Bistro",
+        "startTime": "13:00",
+        "endTime": "14:30",
+        "location": "Le Comptoir du 11ème",
+        "description": "Authentic French bistro experience with traditional dishes and local atmosphere.",
+        "category": "restaurant"
+      },
+      {
+        "id": "activity_003",
+        "title": "Eiffel Tower Visit",
+        "startTime": "16:00",
+        "endTime": "18:00",
+        "location": "Champ de Mars, 5 Avenue Anatole France",
+        "description": "Visit the iconic Eiffel Tower, take photos, and enjoy the sunset from Trocadéro.",
+        "category": "attraction"
+      }
+    ]
+  },
+  {
+    "id": "itinerary_002",
+    "tripId": "trip_001",
+    "day": 2,
+    "date": "2024-06-16",
+    "activities": [
+      {
+        "id": "activity_004",
+        "title": "Louvre Museum",
+        "startTime": "09:00",
+        "endTime": "12:30",
+        "location": "Rue de Rivoli, 75001 Paris",
+        "description": "Explore the world's largest art museum, including the Mona Lisa and Venus de Milo.",
+        "category": "attraction"
+      },
+      {
+        "id": "activity_005",
+        "title": "Seine River Cruise",
+        "startTime": "15:00",
+        "endTime": "16:30",
+        "location": "Pont Neuf, 75001 Paris",
+        "description": "Relaxing boat cruise along the Seine with commentary on Paris landmarks.",
+        "category": "activity"
+      },
+      {
+        "id": "activity_006",
+        "title": "Dinner in Latin Quarter",
+        "startTime": "19:30",
+        "endTime": "21:30",
+        "location": "Latin Quarter, 75005 Paris",
+        "description": "Traditional French dinner in the historic Latin Quarter with wine pairing.",
+        "category": "restaurant"
+      }
+    ]
+  },
+  {
+    "id": "itinerary_003",
+    "tripId": "trip_001",
+    "day": 3,
+    "date": "2024-06-17",
+    "activities": [
+      {
+        "id": "activity_007",
+        "title": "Montmartre & Sacré-Cœur",
+        "startTime": "10:00",
+        "endTime": "13:00",
+        "location": "Montmartre, 75018 Paris",
+        "description": "Explore the artistic neighborhood of Montmartre and visit the beautiful Sacré-Cœur Basilica.",
+        "category": "attraction"
+      },
+      {
+        "id": "activity_008",
+        "title": "Shopping on Champs-Élysées",
+        "startTime": "15:00",
+        "endTime": "17:00",
+        "location": "Avenue des Champs-Élysées",
+        "description": "Browse luxury boutiques and department stores on Paris's most famous avenue.",
+        "category": "shopping"
+      }
+    ]
+  }
+]
