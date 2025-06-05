@@ -1,0 +1,76 @@
+[
+  {
+    "id": "1",
+    "tripId": "1",
+    "inviterName": "Sarah Johnson",
+    "inviterEmail": "sarah.johnson@email.com",
+    "inviteeName": "Mark Williams",
+    "inviteeEmail": "mark.williams@email.com",
+    "role": "member",
+    "status": "pending",
+    "sentAt": "2024-01-25T09:30:00Z",
+    "message": "Hey Mark! Would love to have you join our Tokyo adventure. It's going to be amazing!"
+  },
+  {
+    "id": "2",
+    "tripId": "1",
+    "inviterName": "Sarah Johnson", 
+    "inviterEmail": "sarah.johnson@email.com",
+    "inviteeName": "Jessica Taylor",
+    "inviteeEmail": "jessica.taylor@email.com",
+    "role": "member",
+    "status": "pending",
+    "sentAt": "2024-01-26T14:20:00Z",
+    "message": "Jessica, we're planning an incredible trip to Tokyo. Come join us!"
+  },
+  {
+    "id": "3",
+    "tripId": "2",
+    "inviterName": "Alexandra Thompson",
+    "inviterEmail": "alex.thompson@email.com",
+    "inviteeName": "Chris Davis",
+    "inviteeEmail": "chris.davis@email.com",
+    "role": "member",
+    "status": "accepted",
+    "sentAt": "2024-02-05T11:00:00Z",
+    "acceptedAt": "2024-02-06T08:30:00Z",
+    "message": "Chris, join us for an epic European adventure!"
+  },
+  {
+    "id": "4",
+    "tripId": "2",
+    "inviterName": "Alexandra Thompson",
+    "inviterEmail": "alex.thompson@email.com",
+    "inviteeName": "Nicole Garcia",
+    "inviteeEmail": "nicole.garcia@email.com",
+    "role": "member",
+    "status": "declined",
+    "sentAt": "2024-02-04T16:45:00Z",
+    "declinedAt": "2024-02-05T12:15:00Z",
+    "message": "Nicole, would love to have you explore Europe with us!"
+  },
+  {
+    "id": "5",
+    "tripId": "3",
+    "inviterName": "Sophie Martinez",
+    "inviterEmail": "sophie.martinez@email.com",
+    "inviteeName": "Kevin Chen",
+    "inviteeEmail": "kevin.chen@email.com",
+    "role": "member",
+    "status": "pending",
+    "sentAt": "2024-02-15T13:10:00Z",
+    "message": "Kevin, come explore the beautiful beaches of Bali with our group!"
+  },
+  {
+    "id": "6",
+    "tripId": "1",
+    "inviterName": "Michael Chen",
+    "inviterEmail": "michael.chen@email.com", 
+    "inviteeName": "Amanda Rodriguez",
+    "inviteeEmail": "amanda.rodriguez@email.com",
+    "role": "member",
+    "status": "pending",
+    "sentAt": "2024-01-28T10:25:00Z",
+    "message": "Amanda, Sarah said I could invite you to our Tokyo trip. Hope you can make it!"
+  }
+]
